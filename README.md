@@ -1,4 +1,4 @@
-# E-Commerce-Funnel-Performance-Usability-Review
+# E-Commerce Funnel Performance Usability Review
 ## Click through website analysis of customer transactions
 
 <img width="790" height="1454" alt="image" src="https://github.com/user-attachments/assets/2428ce4a-cc0c-4e67-9d0b-deaac86a5dae" />
